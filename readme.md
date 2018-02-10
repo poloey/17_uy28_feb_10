@@ -40,3 +40,18 @@ Person Object
  */
 
 ~~~
+
+#### new line character for cmd
+
+~~~php
+"\n"
+~~~
+
+#### relation with class and object     
+
+*   static properties, static method and  constant has relation with class
+
+* properties and method relation with object    
+
+
+
